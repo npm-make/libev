@@ -1,0 +1,12 @@
+{
+  "name": "@npm-make/libev",
+  "version": "4.33.0-alpha1",
+  "repository": "https://github.com/npm-make/libev",
+  "devDependencies": {
+    "@npm-make/npm-make": "^0.0.7"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.com/",
+    "access": "public"
+  }
+}
